@@ -1,0 +1,6 @@
+{
+  "*.ts": [
+    "npm run lint"
+  ],
+  "prettier/prettier": ["error", { "endOfLine": "auto" }]
+}
